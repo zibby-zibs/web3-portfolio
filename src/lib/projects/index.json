@@ -1,0 +1,32 @@
+[
+  {
+    "image": "/relay.png",
+    "title": "DeFi Dashboard",
+    "description": "Interactive dashboard for tracking and managing decentralized finance investments.",
+    "href": "https://defi-dashboard-example.com"
+  },
+  {
+    "image": "/natrium.png",
+    "title": "NFT Marketplace",
+    "description": "Platform for minting, buying, and selling unique digital assets.",
+    "href": "https://nft-marketplace-example.com"
+  },
+  {
+    "image": "/relay.png",
+    "title": "Blockchain Voting System",
+    "description": "Secure and transparent voting system built on Ethereum.",
+    "href": "https://blockchain-voting-example.com"
+  },
+  {
+    "image": "relay.png",
+    "title": "Crypto Portfolio Tracker",
+    "description": "Real-time cryptocurrency portfolio management and analytics tool.",
+    "href": "https://crypto-tracker-example.com"
+  },
+  {
+    "image": "relay.png",
+    "title": "Web3 Social Network",
+    "description": "Decentralized social platform with integrated cryptocurrency tipping.",
+    "href": "https://web3-social-example.com"
+  }
+]
