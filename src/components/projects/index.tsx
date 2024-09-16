@@ -15,8 +15,8 @@ const Projects = () => {
         {/* <h2 className="max-w-7xl pl-4 mx-auto text-xl md:text-5xl font-bold text-muted-foreground dark:text-neutral-200 font-sans">
           Get to see my past works.
         </h2> */}
-
-        <div>
+        <p className="text-green-400 text-center">See my past work</p>
+        <div className="mt-5">
           <ProjectCard items={projects} />
         </div>
       </div>

@@ -29,14 +29,22 @@ const Hero = () => {
           />
         </div>
         <p className="mt-6 text-gray-400">
-          Passionate about building decentralized solutions that shape the
-          future of the web. With expertise in{" "}
+          I’ve got 7 years experience in fe development, 5 in web2 and 2 - 3 in
+          web 3. Passionate about building decentralized solutions that shape
+          the future of the web. With expertise in{" "}
           <span className="text-green-400 font-medium">
             React, Nextjs, Wagmi
           </span>
           , I bring innovative ideas to life in the web3 space. Explore my
           projects to see how I&apos;m contributing to the blockchain
           revolution.
+        </p>
+        <p className="pt-2 text-gray-400">
+          I also learnt <span className="text-green-400">solidity</span> on and
+          off for about a year now, not super experienced with complex contracts
+          like lending but I can practically handle most junior level tasks like
+          <span className="text-green-400"> tokens, NFTs, simple bots </span>
+          (still practicing this) and etc...
         </p>
       </article>
 
