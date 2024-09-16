@@ -39,7 +39,7 @@ const Hero = () => {
           projects to see how I&apos;m contributing to the blockchain
           revolution.
         </p>
-        <p className="pt-2 text-gray-400">
+        <p className="pt-4 text-gray-400">
           I also learnt <span className="text-green-400">solidity</span> on and
           off for about a year now, not super experienced with complex contracts
           like lending but I can practically handle most junior level tasks like
