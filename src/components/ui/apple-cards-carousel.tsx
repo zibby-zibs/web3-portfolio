@@ -286,7 +286,7 @@ export const BlurImage = ({
         className
       )}
       onLoad={() => setLoading(false)}
-      src={src}
+      src={src as string}
       width={width}
       height={height}
       loading="lazy"
